@@ -1,0 +1,13 @@
+c:\users\aag\documents\visual studio 2013\Projects\ExcelToShape\ExcelToShape\bin\Debug\ExcelToShape.exe.config
+c:\users\aag\documents\visual studio 2013\Projects\ExcelToShape\ExcelToShape\bin\Debug\ExcelToShape.exe
+c:\users\aag\documents\visual studio 2013\Projects\ExcelToShape\ExcelToShape\bin\Debug\ExcelToShape.pdb
+c:\users\aag\documents\visual studio 2013\Projects\ExcelToShape\ExcelToShape\obj\Debug\ExcelToShape.csprojResolveAssemblyReference.cache
+c:\users\aag\documents\visual studio 2013\Projects\ExcelToShape\ExcelToShape\obj\Debug\ExcelToShape.ExcelToShape.resources
+c:\users\aag\documents\visual studio 2013\Projects\ExcelToShape\ExcelToShape\obj\Debug\ExcelToShape.Properties.Resources.resources
+c:\users\aag\documents\visual studio 2013\Projects\ExcelToShape\ExcelToShape\obj\Debug\ExcelToShape.csproj.GenerateResource.Cache
+c:\users\aag\documents\visual studio 2013\Projects\ExcelToShape\ExcelToShape\obj\Debug\ExcelToShape.exe
+c:\users\aag\documents\visual studio 2013\Projects\ExcelToShape\ExcelToShape\obj\Debug\ExcelToShape.pdb
+c:\users\aag\documents\visual studio 2013\Projects\ExcelToShape\ExcelToShape\bin\Debug\EPPlus.dll
+c:\users\aag\documents\visual studio 2013\Projects\ExcelToShape\ExcelToShape\bin\Debug\EPPlus.xml
+c:\users\aag\documents\visual studio 2013\Projects\ExcelToShape\ExcelToShape\obj\Debug\Interop.MapWinGIS.dll
+c:\users\aag\documents\visual studio 2013\Projects\ExcelToShape\ExcelToShape\obj\Debug\ExcelToShape.csproj.ResolveComReference.cache
